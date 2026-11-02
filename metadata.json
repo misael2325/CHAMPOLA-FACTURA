@@ -1,0 +1,6 @@
+{
+  "name": "AutoDoc Taller - Facturación y Cotizaciones Mecánicas",
+  "description": "Sistema profesional de facturación, cotizaciones y gestión de clientes e historial para talleres de mecánica y mecánicos independientes con exportación a PDF y control de ITBIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
